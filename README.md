@@ -5,7 +5,7 @@ My name is Boris Radulov, a 21 year old student at the University of Leeds in th
 - 🔭 I’m currently working on Nutshell, a mobile AI-driven email client.
 - 🌱 Right now, I'm learning C++, 3D Graphics, and RayTracing for my final year project at university.
 - 💬 If you want to chat about anything low level such C, x86 Assembly, UNIX and POSIX, etc., I'm your guy.
-- 📫 You can reach me at boris.raduloff@gmail.com](mailto:boris.raduloff@gmail.com).
+- 📫 You can reach me at [boris.raduloff@gmail.com](mailto:boris.raduloff@gmail.com).
 
 Also, feel free to check out my channel on TikTok, [@lowlevelboris](https://tiktok.com/@lowlevelboris), where I make programming tutorials and educational entertainment content for software engineers.
 
