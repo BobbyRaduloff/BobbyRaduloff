@@ -1,17 +1,24 @@
 ## Hi there 👋
 
-My name is Boris Radulov, a 21 year old student at the University of Leeds in the UK. I'm also a Lead Developer at a Bulgarian consulting startup called [Javery](https://javery.bg).
+My name is Boris Radulov, a 21 year old student at the University of Leeds in the UK. I'm the cofounder of Nutshell, a revolutionary AI-based email app. I'm also a Technical Product Manager at a Bulgarian consulting startup called [Javery](https://javery.bg).
 
-- 🔭 I’m currently working on Nutshell, a mobile AI-driven email client.
-- 🌱 Right now, I'm learning C++, 3D Graphics, and RayTracing for my final year project at university.
-- 💬 If you want to chat about anything low level such C, x86 Assembly, UNIX and POSIX, etc., I'm your guy.
 - 📫 You can reach me at [boris.raduloff@gmail.com](mailto:boris.raduloff@gmail.com).
-
-Also, feel free to check out my channel on TikTok, [@lowlevelboris](https://tiktok.com/@lowlevelboris), where I make programming tutorials and educational entertainment content for software engineers.
+- Also, feel free to check out my channel on TikTok, [@lowlevelboris](https://tiktok.com/@lowlevelboris), where I make programming tutorials and educational entertainment content for software engineers.
 
 ## Open Source Portfolio
 
 Here, you can find a sample of some of the open-source work I've done.
+
+### [BRDFs](https://gitlab.com/BorisRadulov/final_year_project): Comparative Analysis of Theoretical and Empirical BRDFs in Offline Raytracing
+
+Ray tracing has become the industry standard for photo-realistic rendering. There’s two main questions that must be considered when implementing ray-tracing. Firstly, how exactly rays are calculated and bounced off surfaces. This determines the rendering of shadows and the contributions of lights to the scene. Secondly, how colors are calculated at the intersections of rays and triangles in the surface. This paper tackles both of these questions through the visual and performance analysis of bidirectional reflectance distribution functions (BRDFs). Analysis is performed on multiple BRDFs of varying complexity and a recommendation to use microfacet models is given because of their relatively small impact on performance as compared to the noticeable increase of visual fidelity
+
+Here's a render from it:
+![78F3B30E-AC9D-4D4A-9156-E5A814CE50B3](https://github.com/BobbyRaduloff/BobbyRaduloff/assets/17109226/a257bc4e-4c2b-4f4e-948e-e142cc1b084a)
+
+The full paper can be found here: [https://drive.google.com/file/d/1IhNixva2iQstVc1erv9KV2mQ6czypjne/view?usp=sharing](https://drive.google.com/file/d/1IhNixva2iQstVc1erv9KV2mQ6czypjne/view?usp=sharing).
+
+
 
 ### [js_rtc](https://github.com/BobbyRaduloff/js_rtc): JavaScript RayTracing engine that renders to a canvas in NextJS
 
@@ -19,14 +26,3 @@ Initially started to answer a final year project research question, the followin
 
 Here's a render from it:
 ![js_rtc](https://user-images.githubusercontent.com/17109226/224798346-a2d66907-beab-48db-a866-6b6070fe29eb.png)
-
-
-### [lowlevelboris](https://github.com/BobbyRaduloff/lowlevelboris): NextJS Blog with Static Content Generation
-
-My personal blog, written in NextJS. It has the ability to read my blog posts in Markdown and convert them to pages on the website with the appropriate styling at deploy-time, making it extremly fast.
-
-Here's the PageSpeed Insights:
-![lowlevelboris_pagespeed](https://user-images.githubusercontent.com/17109226/224799618-c9474874-08d5-4343-a4a3-3933e697ba83.png)
-
-And here's the nostalgic Windows 95 design, courtesy of [react95](https://react95.io):
-![lowlevelboris](https://user-images.githubusercontent.com/17109226/224801184-15212bd7-f093-4ab1-bd6a-e3e54fbeb714.gif)
