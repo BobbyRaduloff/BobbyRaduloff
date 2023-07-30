@@ -17,7 +17,7 @@ Here's a render from it:
 
 ![78F3B30E-AC9D-4D4A-9156-E5A814CE50B3](https://github.com/BobbyRaduloff/BobbyRaduloff/assets/17109226/a257bc4e-4c2b-4f4e-948e-e142cc1b084a)
 
-The full paper can be found here: [https://drive.google.com/file/d/1IhNixva2iQstVc1erv9KV2mQ6czypjne/view?usp=sharing](https://drive.google.com/file/d/1IhNixva2iQstVc1erv9KV2mQ6czypjne/view?usp=sharing).
+The full paper can be found here: [https://drive.google.com/file/d/1vq5Atux6nN8xdhyHF7pHj1xgKeJbyHZt/view?usp=sharing](https://drive.google.com/file/d/1vq5Atux6nN8xdhyHF7pHj1xgKeJbyHZt/view?usp=sharing).
 
 
 
