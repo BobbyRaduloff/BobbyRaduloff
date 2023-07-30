@@ -3,7 +3,7 @@ My name is Boris Radulov, a 21 year old software engineer from Sofia, Bulgaria. 
 
 You can reach me at [boris.raduloff@gmail.com](mailto:boris.raduloff@gmail.com).
 
-### My Final Thesis: [BRDFs](https://gitlab.com/BorisRadulov/final_year_project) -- Comparative Analysis of Theoretical and Empirical BRDFs in Offline Raytracing
+### My Final Thesis: ["BRDFs: Comparative Analysis of Theoretical and Empirical BRDFs in Offline Raytracing"](https://gitlab.com/BorisRadulov/final_year_project):
 Ray tracing has become the industry standard for photo-realistic rendering. There’s two main questions that must be considered when implementing ray-tracing. Firstly, how exactly rays are calculated and bounced off surfaces. This determines the rendering of shadows and the contributions of lights to the scene. Secondly, how colors are calculated at the intersections of rays and triangles in the surface. This paper tackles both of these questions through the visual and performance analysis of bidirectional reflectance distribution functions (BRDFs). Analysis is performed on multiple BRDFs of varying complexity and a recommendation to use microfacet models is given because of their relatively small impact on performance as compared to the noticeable increase of visual fidelity
 
 Here's a render from it:
