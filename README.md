@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Boris Radulov, a 21 year old software engineer from Sofia, Bulgaria. I graduated CS from the University of Leeds in 2023 and am currently working on a bunch of different things.
+My name is Boris Radulov, a 22 year old software engineer from Sofia, Bulgaria. I graduated CS from the University of Leeds in 2023 and am currently working on a bunch of different things.
 
 You can reach me at [boris.raduloff@gmail.com](mailto:boris.raduloff@gmail.com).
 
